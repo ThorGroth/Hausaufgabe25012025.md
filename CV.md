@@ -1,5 +1,6 @@
 # Bewerbung von Thor Michael Groth
-![](https://i.etsystatic.com/36531035/r/il/afe726/4802690472/il_340x270.4802690472_65t9.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://i.etsystatic.com/36531035/r/il/afe726/4802690472/il_340x270.4802690472_65t9.jpg">
 
 
 ## Persönliche Daten
