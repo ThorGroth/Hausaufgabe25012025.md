@@ -16,11 +16,11 @@
 
 - **Adresse**:  
   Thor Michael Groth  
-  Brühler 1 B  
-  50968 Köln, Deutschland  
+  von der Straß 
+- 00909 Köln, Deutschland  
 
-- **Telefon**: 01633967750  
-- **E-Mail**: grothmichael02@gmail.com  
+- **Telefon**: 0163  
+- **E-Mail**: @gmail.com  
 
 ---
 
